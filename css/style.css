@@ -140,7 +140,7 @@ nav{
     /* padding-left: 50px; */
 }
 .red_text{
-    color: red;
+    color: rgb(211, 52, 52);
 }
 .main{
     display: flex;
