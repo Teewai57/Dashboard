@@ -139,6 +139,9 @@ nav{
     margin-left: 27px;
     /* padding-left: 50px; */
 }
+.red_text{
+    color: red;
+}
 .main{
     display: flex;
 }
