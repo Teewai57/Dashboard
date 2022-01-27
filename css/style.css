@@ -142,6 +142,9 @@ nav{
 .red_text{
     color: rgb(211, 52, 52);
 }
+.yellow_text{
+    color: rgb(243, 183, 71);
+}
 .main{
     display: flex;
 }
