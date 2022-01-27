@@ -174,11 +174,17 @@ nav{
 .sales3{
     color: green;
 }
+.sales4{
+    color:rgb(211, 52, 52) ;
+}
 .blue_icon{
     color: blue;
 }
 .green_icon{
     color: green;
+}
+.red_icon{
+    color: red;
 }
 .card{
     border: none !important;
