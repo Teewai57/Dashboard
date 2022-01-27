@@ -171,6 +171,15 @@ nav{
 .sales2{
     color: blue;
 }
+.sales3{
+    color: green;
+}
+.blue_icon{
+    color: blue;
+}
+.green_icon{
+    color: green;
+}
 .card{
     border: none !important;
     box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
