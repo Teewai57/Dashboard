@@ -148,7 +148,9 @@ nav{
     height: 150px;
 }
 .image3{
-    height: 100px;
+    height: 90px;
+    width: 250px;
+    padding-left: 10px;
 }
 .white{
     color: white;
